@@ -8,10 +8,11 @@ The Applicaton allows the user to control and fly an aeroplane within the Flight
 **_Design and visuals_**:
 We have both a main screen, and an activity screen,
 - *Main screen*: In the main screen the user will be shown their 5 most recently used URLs, that the user used for connecting. Clicking on one of the links will immediately cause it to be shown in the textbox below for the user's convenience. The CONNECT button can be used to connect to the typed URL
-  ![main login screen app github](https://github.com/user-attachments/assets/5dd7d219-bbbe-4fe2-9cbd-73fbe3d428da)
+![main login screen app github11](https://github.com/user-attachments/assets/34c9edda-d759-4c44-99af-b3161f796e34)
+
 - *Activity screen*: In the activity screen the user can see the Joystick and sliders used to control the Flight (Throttle, Rudder, Aileron, Elevator), and a view of the airplane's cockpit. The view is updated consistently by displaying updated screenshots of the airplane's state
-  ![another picture github mobile](https://github.com/user-attachments/assets/1a6e6113-7752-42ea-936e-8ed83a8ed686) ![mobile app github](https://github.com/user-attachments/assets/c7723691-2c73-4207-bb6f-18bc29cf48b4)
-  
+  ![mobile app github111](https://github.com/user-attachments/assets/3ddb399d-f56c-4674-b3ae-52302c9e2565)
+
 #### Support
 
 FlightGear simulator: https://www.flightgear.org/
