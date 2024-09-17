@@ -23,9 +23,9 @@ To run this program, there are a couple of things that need to be in place:
 
 **_Note_**: We used a dummy flightgear server to speed up the process of development and for the convenience, It imitates a server which sends and accepts the relevant data, you can use the FlightGear flight simulator instead, but in order to to that, you have to open FlightGear, go to settings and then scroll down and there you will find Additional settings, there you should add these two lines
 
-**--generic=socket,out,10,127.0.0.1,5400,tcp,generic_small**
-
 **--telnet=socket,in,10,127.0.0.1,5402,tcp**
+
+**--httpd=5000**
 
 Launch and enjoy! (Note: At the time we did not take into consideration running the plane engine and simulating a full on real flight experience, the main goal was to establish the communication and the back and forth exchange of data and experiencing a real client-server environment)
 
