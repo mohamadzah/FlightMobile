@@ -11,7 +11,7 @@ We have both a main screen, and an activity screen,
 - *Activity screen*: In the activity screen the user can see the Joystick and sliders used to control the Flight (Throttle, Rudder, Aileron, Elevator), and a view of the airplane's cockpit. The view is updated consistently by displaying updated screenshots of the airplane's state
 - The user can use the application in both Portrait and Landscape mode, whichever is more comfortable.
   
-![main login screen app github11](https://github.com/user-attachments/assets/34c9edda-d759-4c44-99af-b3161f796e34)     - - - - - - - - - - - - - - - -     ![mobile app github111](https://github.com/user-attachments/assets/3ddb399d-f56c-4674-b3ae-52302c9e2565)
+![main login screen app github11](https://github.com/user-attachments/assets/34c9edda-d759-4c44-99af-b3161f796e34)  ![mobile app github111](https://github.com/user-attachments/assets/3ddb399d-f56c-4674-b3ae-52302c9e2565)
 
 #### Compiling and running
 To run this program, there are a couple of things that need to be in place:
