@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlightMobileApp</string>
+    <string name="todo">TODO</string>
+    <string name="recently_used_urls">Recently used URLs</string>
+    <string name="add_url">Add URL…</string>
+    <string name="connect">Connect</string>
+</resources>
